@@ -14,7 +14,7 @@ The latest dumps for the English wikipedia, for example, can be found [here](htt
 
 dumps.wikimedia.org/[LANGUAGE]wiki/latest/[LANGUAGE]wiki-latest-langlinks.sql.gz
 
- where <LANGUAGE> is replaced by the language iso (e.g. en, ab, es, pt, fr, etc...)
+ where [LANGUAGE] is replaced by the language iso (e.g. en, ab, es, pt, fr, etc...)
 
 
 
