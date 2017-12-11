@@ -12,7 +12,7 @@ Usage:
 
 The latest dumps for the English wikipedia, for example, can be found [here](https://dumps.wikimedia.org/enwiki/latest/). This script works on the sql version of the langlinks table dump (e.g.: [link](dumps.wikimedia.org/enwiki/latest/enwiki-latest-langlinks.sql.gz)). This repository contains an example dump (```avwiki-latest-langlinks.sql.gz```) and an example of the parsed result (```avwiki-latest-langlinks-parsed.csv```). The latest dumps in other languages can be found at:
 
-dumps.wikimedia.org/<LANGUAGE>wiki/latest/<LANGUAGE>wiki-latest-langlinks.sql.gz
+dumps.wikimedia.org/[LANGUAGE]wiki/latest/[LANGUAGE]wiki-latest-langlinks.sql.gz
 
  where <LANGUAGE> is replaced by the language iso (e.g. en, ab, es, pt, fr, etc...)
 
